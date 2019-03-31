@@ -1,0 +1,13 @@
+{
+  "input.label.email": "Email address",
+  "input.label.password": "Password",
+  "input.label.password-confirm": "Password confirm",
+  "input.label.accept-tos": "I’ve read and accept the Terms Of Service",
+  "input.label.accept-pp": "I’ve read and accept the Privacy Policy",
+
+  "input.placeholder.password": "Must be at least 6 characters",
+
+  "login.submit": "Log in",
+  "signup.submit": "Sign up",
+  "activation.submit": "Activate your account"
+}

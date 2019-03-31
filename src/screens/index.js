@@ -1,0 +1,8 @@
+export {LoginScreen} from './Login'
+export {SignupScreen} from './Signup'
+// export WalletScreen from './Wallet'
+// export ActivateAccountScreen from './Activation/ActivateAccount/index'
+export {ProfileScreen} from './Profile'
+// export HealthWalletScreen from './Health/HealthWallet'
+// export HealthPolicyScreen from './Health/HealthPolicy'
+// export HomeWalletScreen from './Home/HomeWallet'
